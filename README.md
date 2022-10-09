@@ -10,7 +10,7 @@
 
 
 
-<script>
+<!-- <script>
 var _hmt = _hmt || [];
 (function() {
 var hm = document.createElement("script");
@@ -20,4 +20,4 @@ s.parentNode.insertBefore(hm, s);
 })();
 </script>
 <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id: "Jf8rVs7oam5pFYhA",ck: "Jf8rVs7oam5pFYhA"})</script>
+<script>LA.init({id: "Jf8rVs7oam5pFYhA",ck: "Jf8rVs7oam5pFYhA"})</script> -->
