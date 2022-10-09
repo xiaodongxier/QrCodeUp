@@ -4,4 +4,4 @@
 
 ## 微信群
 
-* [豫人在京](https://github.xiaodongxier.com/QrCodeUp/WeChat-YuRenZaiJing)
+* [豫人在京 - 河南人在北京交流群，闲聊，八卦，分享，学习，交流...](https://github.xiaodongxier.com/QrCodeUp/WeChat-YuRenZaiJing)
