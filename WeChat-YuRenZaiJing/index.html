@@ -1,6 +1,6 @@
 <!--
  * @Date: 2022-10-09 10:13:52
- * @LastEditTime: 2023-01-29 15:25:50
+ * @LastEditTime: 2023-01-29 15:51:00
  * @Author: WangYongJie
  * @Private-email: admin@xiaodongxier.com
 -->
@@ -34,7 +34,14 @@
 </head>
 <body>
   <div id="app" class="col">
-    <img src="./QrCode/WeChat.jpeg?20230123" alt="豫人在京交流群">
+    <img src="./QrCode/loading.png" alt="豫人在京交流群" id="qrcode">
   </div>
+  <script>
+    window.onload = function(){
+      var imgdom = document.getElementById("qrcode");
+      var newSrc = "./QrCode/WeChat.jpeg?"+new Date().toLocaleDateString();
+      var setSrc = imgdom.setAttribute("src",newSrc);
+    }
+  </script>
 </body>
 </html>
